@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b81121ea-d4fb-422f-b6ce-87f61c411bfc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +47,23 @@
       <recent name="$PROJECT_DIR$/demo/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.predeploy">
     <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/App.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.predeploy" />
         <item itemvalue="Node.js.App.js" />
       </list>
     </recent_temporary>
@@ -73,6 +83,7 @@
       <workItem from="1612371493399" duration="9289000" />
       <workItem from="1612445668319" duration="390000" />
       <workItem from="1615906399784" duration="262000" />
+      <workItem from="1615908261421" duration="174000" />
     </task>
     <servers />
   </component>
